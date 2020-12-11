@@ -19,6 +19,8 @@
     "reflect-metadata": "^0.1.10",
     "selenium-webdriver": "^3.4.0",
     "tslint": "^5.4.3",
-    "typescript": "^2.4.1"
+    "typescript": "^2.4.1",
+    "lodash": ">=4.17.19"
   }
+  
 }
