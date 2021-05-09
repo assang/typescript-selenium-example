@@ -20,7 +20,7 @@
     "selenium-webdriver": "^3.4.0",
     "tslint": "^5.4.3",
     "typescript": "^2.4.1",
-    "lodash": ">=4.17.19"
+    "lodash": ">=4.17.21"
   }
   
 }
