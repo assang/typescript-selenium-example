@@ -9,7 +9,7 @@ describe('Submit ideas', () => {
     pages = new AllPages(new Browser('chrome'));
   });
 
-  it('Test Case #1: Unauthenticated cannot submit ideas', async () => {
+  it('Test Case #1: Unauthenticated cannot submit ideas to server', async () => {
     // Action
     await pages.home.navigate();
     await pages.home.IdeaTitle.type('Add support to TypeScript');
